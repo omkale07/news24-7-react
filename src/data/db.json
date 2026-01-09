@@ -1,0 +1,422 @@
+[
+  {
+    "category": "buisness",
+    "articles": [
+      {
+        "id": 1,
+        "title": "I sent ChatGPT Agent out to shop for me and it couldn’t finish the job",
+        "source": "The Verge",
+        "description": "We tested OpenAI’s ChatGPT Agent, currently only available via its $200-per-month Pro subscription.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/chatgptagent.jpg?quality=90&strip=all&crop=0%2C10.722908076692%2C100%2C78.554183846616&w=1200",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/710020/openai-review-test-new-release-chatgpt-agent-operator-deep-research-pro-200-subscription"
+      },
+      {
+        "id": 2,
+        "title": "International inbound travel to U.S. shows mixed recovery",
+        "source": "CNBC",
+        "description": "Canadian travel dropped sharply in the first half of 2025.",
+        "image": "https://image.cnbcfm.com/api/v1/image/108174093-1752865195104-gettyimages-1240935671-964847-me-getaway-memorial-day-0026-ajs.jpeg?v=1752865275&w=1920&h=1080",
+        "url": "https://www.cnbc.com/2025/07/18/international-travel-to-us-canada-mexico.html"
+      },
+       {
+    "id": 3,
+    "title": "China imposes \"exit ban\" on Wells Fargo executive, reports say",
+    "source": "Axios",
+    "category": "Business",
+    "description": "The episode could renew concerns among businesses about sending executives to China amid international tensions.",
+    "image": "https://images.axios.com/UxzcYexZkD-7kTDDhSftym6xK3Y=/389x0:4224x2157/1366x768/2025/07/18/1752863618588.jpeg",
+    "url": "https://www.axios.com/2025/07/18/china-wells-fargo-exit-ban"
+  },
+  {
+    "id": 4,
+    "title": "American Express just offered a rare peek inside the spending habits of wealthy Americans",
+    "source": "Fortune",
+    "category": "Business",
+    "description": "The company reported record quarterly revenue of $17.9 billion, with millennial spending up 10% and Gen Z spend an astonishing 40%.",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-1837914419-e1752862905423.jpg?resize=1200,600",
+    "url": "https://fortune.com/2025/07/18/american-express-earnings-millennials-gen-z-wealth-affluent-spending/"
+  },
+  {
+    "id": 5,
+    "title": "Intel announces it will be 'further slowing construction' in Ohio",
+    "source": "10TV",
+    "category": "Business",
+    "description": "Intel CEO Lip-Bu Tan announced that the company will be further slowing construction in Ohio.",
+    "image": "https://media.tegna-media.com/assets/WBNS/images/0ea9e9a6-8c15-4acb-b109-9de6af84e16a/20250424T222822/0ea9e9a6-8c15-4acb-b109-9de6af84e16a_1140x641.jpg",
+    "url": "https://www.10tv.com/article/news/local/ohio/intel-delay-in-construction-of-ohio-plant/530-4f3294aa-8075-4b77-9e01-9b8beb289851"
+  },
+  {
+    "id": 6,
+    "title": "Southwest checks in on flyer reaction to bag fees, Basic fares",
+    "source": "Travel Weekly",
+    "category": "Business",
+    "description": "CEO Bob Jordan expressed confidence with Southwest's ongoing commercial transformation.",
+    "image": "https://ik.imgkit.net/3vlqs5axxjf/TW/uploadedImages/Art/Shutterstock_Art/2024/T0930SWAHAWAII_SS.jpg?n=9662&tr=w-1200%2Cfo-auto",
+    "url": "https://www.travelweekly.com/travel-news/airline-news/southwest-q2-earnings-bag-fees-basic-fares"
+  },
+  {
+    "id": 7,
+    "title": "Stocks Close at Record as Alphabet Fuels AI Hopes: Markets Wrap",
+    "source": "Yahoo Finance",
+    "category": "Business",
+    "description": "Stocks hit record highs as Alphabet’s AI demand boosts investor confidence.",
+    "image": "https://s.yimg.com/ny/api/res/1.2/TD5TMGd6K8xZvxZtReQDQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bloomberg_holding_pen_162/e4fcb60d4909799826a0dfc73f9f0d01",
+    "url": "https://finance.yahoo.com/news/bonds-fall-jobs-strength-stocks-155321908.html"
+  },
+  {
+    "id": 8,
+    "title": "In a reversal, UnitedHealth says it’s cooperating with DOJ investigation",
+    "source": "Star Tribune",
+    "category": "Business",
+    "description": "UnitedHealth says it is now cooperating with a federal investigation into its Medicare business.",
+    "image": "https://arc.stimg.co/startribunemedia/4A47GHUOBVE2NIT33LLZTRTYLE.jpg?&w=1200&ar=1.91:1&fit=crop",
+    "url": "https://www.startribune.com/unitedhealth-group-cooperating-with-federal-investigation-of-its-medicare-business/601442302"
+  },
+  {
+    "id": 9,
+    "title": "US, Japan differ on details of tariff deal, with no clear start date",
+    "source": "Nikkei Asia",
+    "category": "Business",
+    "description": "Discrepancies seen over $550bn investment, rice imports, and defense spending.",
+    "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F8%2F3%2F8%2F49888384-3-eng-GB%2FCropped-1753364687photo_SXM2025072400012262.jpg?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+    "url": "https://asia.nikkei.com/Economy/Trade-war/Trump-tariffs/US-Japan-differ-on-details-of-tariff-deal-with-no-clear-start-date"
+  },
+  {
+    "id": 10,
+    "title": "Ray Dalio issues his most dire warning to America yet",
+    "source": "Fortune",
+    "category": "Business",
+    "description": "Billionaire Ray Dalio warns that the U.S. national debt could trigger an economic heart attack.",
+    "image": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2154149172-e1753383977730.jpg?resize=1200,600",
+    "url": "https://fortune.com/2025/07/24/ray-dalio-billionaire-economy-national-debt-economic-heart-attack-crisis/"
+  },
+  {
+    "id": 11,
+    "title": "Sydney Sweeney Is a Meme Stock Icon Now",
+    "source": "Business Insider",
+    "category": "Business",
+    "description": "Sydney Sweeney’s American Eagle ad made her an unexpected meme stock influencer.",
+    "image": "https://i.insider.com/68827e0e3d5881a51c1df262?width=1200&format=jpeg",
+    "url": "https://www.businessinsider.com/sydney-sweeney-meme-stock-american-eagle-jeans-wall-street-bets-2025-7"
+  },
+  {
+    "id": 12,
+    "title": "Coca-Cola may swap out high-fructose corn syrup with cane sugar",
+    "source": "CNN",
+    "category": "Business",
+    "description": "President Trump says Coca-Cola will swap out high-fructose corn syrup with cane sugar. Here’s what research says about its health risks compared with sugar.",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/2011-02-09t120000z-629858621-gm1e72a06uc01-rtrmadp-3-cocacola.jpg?c=16x9&q=w_800,c_fill",
+    "url": "https://www.cnn.com/2025/07/18/health/coca-cola-cane-sugar-high-fructose-corn-syrup-wellness"
+  }
+
+
+    ]
+  },
+  {
+    "category": "genral",
+    "articles": [
+   {
+    "id": 1,
+    "title": "Fantastic Four: First Steps Fires Up Thursday Night With Around $23M",
+    "source": "Deadline",
+    "category": "Entertainment",
+    "description": "Fantastic Four: First Steps is posting $23M in previews, another robust start for superhero movies at the box office.",
+    "image": "https://deadline.com/wp-content/uploads/2025/07/MCDFAFO_WD046.jpg?w=1024",
+    "url": "http://deadline.com/2025/07/box-office-fantastic-four-first-steps-1236468412/"
+  },
+  {
+    "id": 2,
+    "title": "Google rethinks search results with its new AI-curated",
+    "source": "The Verge",
+    "category": "Technology",
+    "description": "Google is testing Web Guide in its Search Labs, a new generative AI feature that users can opt into for Gemini-curated results.",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/google-web-guide.webp",
+    "url": "https://www.theverge.com/news/713351/google-ai-search-results-web-guide-labs-beta-test"
+  },
+  {
+    "id": 3,
+    "title": "NASCAR 25 console game set for October 2025 release date",
+    "source": "NASCAR",
+    "category": "Sports",
+    "description": "iRacing and NASCAR revealed that NASCAR 25 is launching on PS5 and Xbox Series X|S in October 2025.",
+    "image": "https://www.nascar.com/wp-content/uploads/sites/7/2025/07/24/nascar-25-release-date-672x372.jpeg",
+    "url": "https://www.nascar.com/news-media/2025/07/24/nascar-25-console-game-set-for-october-2025-release-date/"
+  },
+  {
+    "id": 4,
+    "title": "Fei-Fei Li's World Labs speeds up the world model race with Marble",
+    "source": "TechCrunch",
+    "category": "AI",
+    "description": "Startups like Decart and Odyssey have released free demos, while Google's Genie remains limited.",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/world-labs-mushroom-prompt.png",
+    "url": "https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/"
+  },
+  {
+    "id": 5,
+    "title": "Google sues group running massive SMS scam operation",
+    "source": "Engadget",
+    "category": "Cybersecurity",
+    "description": "Google has filed a lawsuit against a group accused of running a phishing platform called Lighthouse.",
+    "image": "https://s.yimg.com/ny/api/res/1.2/DCd1kbwybw9dOPN_v402Nw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODY-/https://d29szjachogqwa.cloudfront.net/images/2025-11/b8427fa8-3cc5-43dd-ba0c-6a80d4c5428c",
+    "url": "https://www.engadget.com/big-tech/google-sues-group-running-massive-sms-scam-operation-133000168.html"
+  },
+  {
+    "id": 6,
+    "title": "A new analysis projects a 24% cut to Social Security",
+    "source": "Axios",
+    "category": "Politics",
+    "description": "A new analysis says Trump's bill could cause sharp cuts to Social Security by late 2032.",
+    "image": "https://images.axios.com/CndFCFxsV64OfsgrgL5VEggjwiA=/1366x768/smart/2025/03/12/195829-1741809509993.jpg",
+    "url": "https://www.axios.com/2025/07/24/social-security-recipients-benefit-cut"
+  },
+  {
+    "id": 7,
+    "title": "FCC approves $8 billion Paramount-Skydance merger",
+    "source": "Washington Post",
+    "category": "Business",
+    "description": "The FCC voted 2–1 in favor of the transaction amid accusations of political pressure.",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJMG2O77NNHQVMBZHD5XIS7QDE_size-normalized.jpg&w=1440",
+    "url": "https://www.washingtonpost.com/business/2025/07/24/fcc-approves-8-billion-paramount-skydance-merger-after-lengthy-review/"
+  },
+  {
+    "id": 8,
+    "title": "This Natural, Zero-Calorie Sweetener Could Be a Secret Weapon Against Cancer",
+    "source": "ScienceAlert",
+    "category": "Health",
+    "description": "Researchers explore how bacteria and a plant-based sweetener may help fight cancer.",
+    "image": "https://www.sciencealert.com/images/2025/07/SteviaPluckedByHand.jpg",
+    "url": "https://www.sciencealert.com/this-natural-zero-calorie-sweetener-could-be-a-secret-weapon-against-cancer"
+  },
+  {
+    "id": 9,
+    "title": "Scientists Find 2 Existing Drugs Can Reverse Alzheimer's Brain Damage",
+    "source": "ScienceAlert",
+    "category": "Medical Research",
+    "description": "Researchers are testing existing drugs that may help reverse Alzheimer’s-related damage.",
+    "image": "https://www.sciencealert.com/images/2025/07/GliaCells.jpg",
+    "url": "https://www.sciencealert.com/scientists-find-2-existing-drugs-can-reverse-alzheimers-brain-damage-in-mice"
+  },
+  {
+    "id": 10,
+    "title": "President Trump takes aim at college sports with a new executive order",
+    "source": "NPR",
+    "category": "Politics",
+    "description": "The order targets NIL deals and mandates scholarships, though its legality is questioned.",
+    "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F44%2F6708bcb54ed5b50270360f31bbb0%2Fgettyimages-2210278090.jpg",
+    "url": "https://www.npr.org/2025/07/25/nx-s1-5479194/college-sports-executive-order-trump-eo"
+  },
+  {
+    "id": 11,
+    "title": "Aaron Rodgers on his INT: I'm gonna throw some picks",
+    "source": "NBC Sports",
+    "category": "Sports",
+    "description": "Rodgers reflects on his first Steelers training camp practice performance.",
+    "image": "https://nbcsports.brightspotcdn.com/dims4/default/e7a9fe9/2147483647/strip/true/crop/4255x2393+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2F39%2Fb2eda8174c98a417964712a25ae0%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D26702632",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-on-his-int-im-gonna-throw-some-picks-but-im-gonna-throw-some-touchdowns-too"
+  },
+  {
+    "id": 12,
+    "title": "Steam and Itch.io Are Pulling Porn Games, Critics Say",
+    "source": "Wired",
+    "category": "Gaming",
+    "description": "Payment processors are being used to pressure storefronts to remove adult games.",
+    "image": "https://media.wired.com/photos/687fcfbfcc34f84ebcc01ab6/191:100/w_1280,c_limit/STEAM-Remove-ornographic-Games-Culture-1659833597.jpg",
+    "url": "https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/"
+  }        
+
+    ]
+  },
+  {
+     "category": "sport",
+    "articles": [
+    {
+    "id": 1,
+    "title": "Mariners still eyeing Suárez reunion even after Naylor trade",
+    "source": "MyNorthwest",
+    "category": "Sports",
+    "description": "Don't think that the Seattle Mariners' trade Thursday night for one Arizona Diamondbacks All-Star rules them out for acquiring another.",
+    "image": "https://sports.mynorthwest.com/wp-content/uploads/2025/07/seattle-mariners-trade-deadline-arizona-eugenio-suarez-josh-naylor-getty-900.jpg",
+    "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-eyeing-eugenio-suarez-after-josh-naylor-trade/1817562"
+  },
+  {
+    "id": 2,
+    "title": "Justin Fields scare reveals vicious Jets cycle Aaron Glenn is up against",
+    "source": "NY Post",
+    "category": "Sports",
+    "description": "The overriding theme, “Here we go again” came alive on Thursday.",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2025/07/newspress-collage-xbcxu3hto-1753402872807.jpg?quality=75&strip=all&w=1024",
+    "url": "https://nypost.com/2025/07/24/sports/justin-fields-scare-reveals-vicious-jets-cycle-aaron-glenn-is-up-against/"
+  },
+  {
+    "id": 3,
+    "title": "After intentional walk before him, Clement gets his revenge",
+    "source": "MLB",
+    "category": "Sports",
+    "description": "DETROIT -- When you’re hot, you’re hot. Blue Jays find fun ways to win games and keep entertained.",
+    "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/s5zus8kki9lfqeesizty.jpg",
+    "url": "https://www.mlb.com/news/ernie-clement-eric-lauer-blue-jays-win-series-opener-vs-tigers"
+  },
+  {
+    "id": 4,
+    "title": "Despite Trump's threat, D.C. council announces Commanders stadium deal",
+    "source": "CBS News",
+    "category": "Sports",
+    "description": "President Trump said if the Commanders don't change the name back he wouldn't make a deal for a stadium, yet city council announces a deal.",
+    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/07/24/8adcc71d-9ab5-4cfe-9304-b1b73e4820e9/thumbnail/1200x630/3e9b66e9ec013c80a9daf7fd23f00ab7/gettyimages-2212423888.jpg",
+    "url": "https://www.cbsnews.com/news/trump-washington-commanders-deal/"
+  },
+  {
+    "id": 5,
+    "title": "Five Observations From Day 2 Of 2025 Seahawks Training Camp",
+    "source": "Seahawks",
+    "category": "Sports",
+    "description": "News, notes and observations from Day 2 of Seahawks camp.",
+    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/seahawks/genpz6837ptf0h5o9fpa",
+    "url": "https://www.seahawks.com/news/five-observations-from-day-2-of-2025-seahawks-training-camp"
+  },
+  {
+    "id": 6,
+    "title": "Mariners acquire slugger Josh Naylor in trade with Diamondbacks",
+    "source": "Seattle Times",
+    "category": "Sports",
+    "description": "The Mariners kicked off trade-deadline season with a significant addition, acquiring first baseman Josh Naylor.",
+    "image": "https://images.seattletimes.com/wp-content/uploads/2025/07/07242025_tzr_tzr_173855.jpg?d=1200x630",
+    "url": "https://www.seattletimes.com/sports/mariners/mariners-acquire-slugger-josh-naylor-in-trade-with-diamondbacks/"
+  },
+  {
+    "id": 7,
+    "title": "Kansas' Self hospitalized, has 2 stents inserted",
+    "source": "ESPN",
+    "category": "Sports",
+    "description": "Kansas coach Bill Self was hospitalized Thursday after concerning symptoms and had two stents inserted.",
+    "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1019%2Fr1240522_1296x729_16%2D9.jpg",
+    "url": "https://www.espn.com/mens-college-basketball/story/_/id/45818430/kansas-bill-self-hospitalized-expected-make-full-recovery"
+  },
+  {
+    "id": 8,
+    "title": "Little League ‘extremely disappointed’ by NJ court overturning suspension",
+    "source": "NY Post",
+    "category": "Sports",
+    "description": "Little League Baseball will respect the NJ Superior Court ruling overturning a player’s suspension.",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2025/07/newspress-collage-1t0qdj32u-1753396651529.jpg?quality=75&strip=all&w=1024",
+    "url": "https://nypost.com/2025/07/24/sports/little-league-extremely-disappointed-by-nj-court-ruling-overturning-players-suspension/"
+  },
+  {
+    "id": 9,
+    "title": "Dak Prescott on Micah Parsons' contract stalemate",
+    "source": "NBC Sports",
+    "category": "Sports",
+    "description": "Cowboys edge rusher Micah Parsons is not practicing while waiting for a contract extension.",
+    "image": "https://nbcsports.brightspotcdn.com/dims4/default/a2c3a7a/2147483647/strip/true/crop/8001x4501+0+417/resize/1440x810!/quality/90/",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-on-micah-parsons-contract-stalemate-its-an-every-year-conversation-for-cowboys"
+  },
+  {
+    "id": 10,
+    "title": "3 Observations: Fresh and Familiar Faces on Vikings Defense Make Plays",
+    "source": "Vikings",
+    "category": "Sports",
+    "description": "Insights on new players and training camp progress for the Vikings defense.",
+    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/vikings/bty8sbqv9iqxqjcjrnml",
+    "url": "https://www.vikings.com/news/defense-cornerbacks-new-players-training-camp-practice"
+  },
+  {
+    "id": 11,
+    "title": "Chargers Camp Report: Defense Steps Up in Fully Padded Practice",
+    "source": "Chargers",
+    "category": "Sports",
+    "description": "The Chargers defense won the day on Thursday as the team practiced back at The Bolt.",
+    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/chargers/m8tjviyeup7hm8ufuseu",
+    "url": "https://www.chargers.com/news/training-camp-depth-chart-defense-2025"
+  },
+  {
+    "id": 12,
+    "title": "Yankees’ struggles aren’t dimming the optimism around them",
+    "source": "NY Post",
+    "category": "Sports",
+    "description": "Even Aaron Boone suggested the Yankees needed to play better, despite earlier optimism.",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2025/07/MT1USATODAY26695816-1701998916-3.jpg?quality=75&strip=all&w=1024",
+    "url": "https://nypost.com/2025/07/24/sports/yankees-struggles-arent-dimming-the-optimism-around-them/"
+  }
+
+    ]
+  },
+
+  {
+    "category": "health",
+    "articles": [
+      {
+    "id": 1,
+    "title": "This Natural, Zero-Calorie Sweetener Could Be a Secret Weapon Against Cancer",
+    "source": "ScienceAlert",
+    "category": "Health",
+    "description": "In an unexpected twist in the fight against cancer, humble kitchen bacteria and a plant best known for sweetening tea could one day help in treating one of humanity's deadliest diseases...",
+    "image": "https://www.sciencealert.com/images/2025/07/SteviaPluckedByHand.jpg",
+    "url": "https://www.sciencealert.com/this-natural-zero-calorie-sweetener-could-be-a-secret-weapon-against-cancer"
+  },
+  {
+    "id": 2,
+    "title": "Scientists Find 2 Existing Drugs Can Reverse Alzheimer's Brain Damage in Mice",
+    "source": "ScienceAlert",
+    "category": "Health",
+    "description": "Researchers found two existing cancer drugs that may reverse Alzheimer's brain damage in mice, offering new hope for treatment...",
+    "image": "https://www.sciencealert.com/images/2025/07/GliaCells.jpg",
+    "url": "https://www.sciencealert.com/scientists-find-2-existing-drugs-can-reverse-alzheimers-brain-damage-in-mice"
+  },
+  {
+    "id": 3,
+    "title": "Wales debit card to pay for gluten free food in shops",
+    "source": "BBC News",
+    "category": "Health",
+    "description": "Wales launches a debit card pilot to help people afford gluten-free foods, though participants say it barely covers costs...",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2093/live/cb45aa40-67b4-11f0-b8da-2f6ba2aeaac8.jpg",
+    "url": "https://www.bbc.com/news/articles/c0l4d3g4p2do"
+  },
+  {
+    "id": 4,
+    "title": "South Carolina family grieving after 12-year-old son dies from brain-eating amoeba",
+    "source": "Count On 2",
+    "category": "Health",
+    "description": "A 12-year-old boy from Columbia, South Carolina, died after contracting a rare brain-eating amoeba from lake water...",
+    "image": "https://www.counton2.com/wp-content/uploads/sites/7/2023/08/Naegleria-fowleri-e1689958434773.jpg?w=1280",
+    "url": "https://www.counton2.com/news/south-carolina-news/south-carolina-family-grieving-after-12-year-old-son-dies-from-brain-eating-amoeba/"
+  },
+  {
+    "id": 5,
+    "title": "Clinton County woman released from hospital after contracting parasite from tick bite",
+    "source": "WNEP",
+    "category": "Health",
+    "description": "A Clinton County woman is recovering after contracting a tick-borne parasite; doctors share prevention advice...",
+    "image": "https://media.tegna-media.com/assets/WNEP/images/c9fa2700-a323-4de0-a070-0db580f2706e/20250724T210724/c9fa2700-a323-4de0-a070-0db580f2706e_1140x641.jpg",
+    "url": "https://www.wnep.com/article/news/local/clinton-county/clinton-county-woman-released-from-hospital-after-contracting-parasite-from-tick-bite/523-578cafec-bfc5-48e0-8aeb-6fed870e7bc5"
+  },
+  {
+    "id": 6,
+    "title": "The Number-1 Sign You’re Low on Zinc",
+    "source": "Prevention",
+    "category": "Health",
+    "description": "Not getting enough zinc can disrupt everything from your skin to your vision. Here’s what experts say...",
+    "image": "https://s.yimg.com/ny/api/res/1.2/bmYoHd1SX.9PzUgdCLgiRg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/aol_prevention_182/a8d156fbb4810ef155c4a7a6d16f4d66",
+    "url": "https://www.prevention.com/food-nutrition/g65480363/symptoms-zinc-deficiency/"
+  },
+  {
+    "id": 7,
+    "title": "First Came Ozempic Face. Now People Are Dealing With Ozempic Hair and Muscle Loss",
+    "source": "Vogue",
+    "category": "Health",
+    "description": "Ozempic users are reporting thinning hair and muscle loss. Experts explain why this may happen...",
+    "image": "https://assets.vogue.com/photos/687a59358434f4f77a8f725e/16:9/w_1280,c_limit/scan_kya_george@condenast.com_2025-07-17-20-46-28%20copy.jpg",
+    "url": "https://www.vogue.com/article/ozepmic-hair-and-muscle-loss"
+  },
+  {
+    "id": 8,
+    "title": "Rare Bone-Eating Cancer Replaced Man’s Finger and Toe",
+    "source": "Gizmodo",
+    "category": "Health",
+    "description": "A rare form of cancer caused a man’s bones to be replaced by tumor tissue in fingers and toes...",
+    "image": "https://gizmodo.com/app/uploads/2025/07/bone-eating-cancer-finger-toe-1200x675.jpg",
+    "url": "https://gizmodo.com/rare-bone-eating-cancer-replaced-mans-finger-and-toe-2000633716"
+  }
+    ]
+  }
+  
+]

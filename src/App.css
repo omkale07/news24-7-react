@@ -1,38 +1,125 @@
-.App {
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.card{
+margin-top: 5rem;
+margin-left: 4rem;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.card:hover{
+   box-shadow: 0 4px 10px rgba(0, 255, 255, 0.2);
+    transform: translate(0,-10px);
+    transition:.4s;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/* About */
+
+#about{
+    margin-top: 2rem;
 }
 
-.App-link {
-  color: #61dafb;
+.about-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.about-heading span{
+    color: aqua;
+}
+
+.about-text{
+    margin: 10px 10rem;
+    text-align: center; 
+    font-size: 1.2rem;
+}
+
+/* DARK MODE  About*/
+.dark nav {
+  background-color:grey !important;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.4) !important;
+}
+
+
+.dark nav * {
+  color: white !important;
+}
+
+
+.dark .dropdown-menu {
+  background-color: #222 !important;
+}
+
+.dark .dropdown-item {
+  color: white !important;
+}
+
+.dark .dropdown-item:hover {
+  background-color: #333 !important;
+}
+
+.dark .navbar-toggler-icon {
+  filter: invert(1);
+}
+
+.dark .about-text{
+  background: #1A1A1A;
+  color: #fff !important;
+}
+
+.dark .A-heading{
+  color: aqua !important;
+}
+
+.dark .B-text{
+  color: aqua !important;
+}
+
+.dark{
+  background: #1A1A1A;
+  color: #fff !important;
+}
+
+
+
+
+/* Footer Section */
+footer {
+  background-color: rgba(228, 230, 235, 0.6);
+  width: 100%;
+  padding: 40px 20px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.footer-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.footer-title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #212529;
+}
+
+.footer-title span {
+  color: #00b4d8;
+}
+
+.footer-text {
+  margin: 15px 0;
+  font-size: 1rem;
+  color: #343a40;
+}
+
+footer .btn-color {
+  padding: 10px 25px;
+  font-weight: 500;
+  border-radius: 5px;
+  background-color: aqua;
 }

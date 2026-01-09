@@ -1,0 +1,66 @@
+nav{
+height: 4rem;
+box-shadow: 0 4px 10px rgba(0, 255, 255, 0.2);
+position: fixed;
+    
+}
+
+.nav-logo{
+font-weight: 600;
+color: black;
+font-size: 1.3rem;
+}
+
+.nav-logo span{
+color: aqua;
+font-size: 1rem;
+font-weight: 500;
+}
+
+
+.switch{
+  margin-right: 15px;
+}
+
+/* DARK MODE */
+.dark nav {
+  background-color:grey !important;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.4) !important;
+}
+
+
+.dark nav * {
+  color: white !important;
+}
+
+
+.dark .dropdown-menu {
+  background-color: #222 !important;
+}
+
+.dark #search{
+  background-color: grey  !important;
+}
+
+.dark .dropdown-item {
+  color: white !important;
+}
+
+.dark .dropdown-item:hover {
+  background-color: #333 !important;
+}
+
+.dark .navbar-toggler-icon {
+  filter: invert(1);
+}
+
+
+.dark{
+  background: #1A1A1A;
+  color: #fff;
+}
+
+.active {
+  color: aqua !important;
+  font-weight: 500;
+}
