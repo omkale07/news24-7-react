@@ -1,7 +1,10 @@
 export const getArticlesByCategory = (data = [], category) => {
   if (!Array.isArray(data)) return [];
 
-  return data.filter(
-    item => item.category?.toLowerCase() === category.toLowerCase()
+  const categoryBlock = data.find(
+    item => item.category.toLowerCase() === category.toLowerCase()
   );
+
+  return categoryBlock ? categoryBlock.articles : [];
 };
+

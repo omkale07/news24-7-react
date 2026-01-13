@@ -113,7 +113,7 @@
     ]
   },
   {
-    "category": "genral",
+    "category": "general",
     "articles": [
    {
     "id": 1,
@@ -222,7 +222,151 @@
     "description": "Payment processors are being used to pressure storefronts to remove adult games.",
     "image": "https://media.wired.com/photos/687fcfbfcc34f84ebcc01ab6/191:100/w_1280,c_limit/STEAM-Remove-ornographic-Games-Culture-1659833597.jpg",
     "url": "https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/"
-  }        
+  },
+  {
+    "id": 13,
+    "title": "Defence ministry issues conscript call for 16-year-olds",
+    "source": "cyprus-mail",
+    "category": "General",
+    "description": "All teenage boys born in 2010 and reaching the age of 16 have been called to submit their conscript information declaration within 2026.",
+    "image": "https://cyprus-mail.com/image/s640x/file/wp-content/uploads/2022/06/PPE.jpg",
+    "url": "https://cyprus-mail.com/2026/01/12/defence-ministry-issues-conscript-call-for-16-year-olds"
+  },
+  {
+    "id": 14,
+    "title": "Bucaspor 1928'den ikinci yarıya süper başlangıç",
+    "source": "sporx",
+    "category": "General",
+    "description": "Karaman FK karşısında alınan galibiyet sonrası Bucaspor 1928'de ligde kalmak için umutlar arttı.",
+    "image": "https://via.placeholder.com/400x200?text=No+Image",
+    "url": "https://www.sporx.com/futbol/ligb/bucaspor-1928-den-ikinci-yariya-super-baslangic-SXHBQ1147111SXQ"
+  },
+  {
+    "id": 15,
+    "title": "Kasatkina claims first win on Aussie soil",
+    "source": "Brisbane Times",
+    "category": "General",
+    "description": "Daria Kasatkina hits a winner to claim her first win on Australian soil as an Aussie.",
+    "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/040736de21f366125bc91359db89963b256477ac",
+    "url": "https://www.brisbanetimes.com.au/sport/tennis/kasatkina-claims-first-win-on-aussie-soil-20260112-p5ntij.html"
+  },
+  {
+    "id": 16,
+    "title": "Kasatkina claims first win on Aussie soil",
+    "source": "The Sydney Morning Herald",
+    "category": "Sports",
+    "description": "Daria Kasatkina hits a winner to claim her first win on Australian soil as an Aussie.",
+    "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/040736de21f366125bc91359db89963b256477ac",
+    "url": "https://www.smh.com.au/sport/tennis/kasatkina-claims-first-win-on-aussie-soil-20260112-p5ntij.html"
+  },
+  {
+    "id": 17,
+    "title": "Kasatkina claims first win on Aussie soil",
+    "source": "The Age",
+    "category": "Sports",
+    "description": "Daria Kasatkina hits a winner to claim her first win on Australian soil as an Aussie.",
+    "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/040736de21f366125bc91359db89963b256477ac",
+    "url": "https://www.theage.com.au/sport/tennis/kasatkina-claims-first-win-on-aussie-soil-20260112-p5ntij.html"
+  },
+  {
+    "id": 18,
+    "title": "Trapani ko a Latina: pesa il rigore fallito, granata ancora in zona rossa",
+    "source": "livesicilia",
+    "category": "General",
+    "description": "Fischnaller fallisce dal dischetto nella ripresa. Trapani resta in zona retrocessione.",
+    "image": "https://via.placeholder.com/400x200?text=No+Image",
+    "url": "https://livesicilia.it/serie-c-girone-c-latina-trapani-partita-risultato-gol-classifica/"
+  },
+  {
+    "id": 19,
+    "title": "Runners Can Break Guinness World Records at the Dubai Marathon in 2026",
+    "source": "greenprophet",
+    "category": "General",
+    "description": "Runners at the Dubai Marathon will have a rare chance to enter the Guinness World Records archive during the race’s 25th anniversary.",
+    "image": "https://via.placeholder.com/400x200?text=No+Image",
+    "url": "https://www.greenprophet.com/2026/01/runners-can-break-guinness-world-records-at-the-dubai-marathon-in-2026/"
+  },
+  {
+    "id": 20,
+    "title": "Grande affronta Sannino nella semifinale tricolore dei Gallo",
+    "source": "noitv",
+    "category": "General",
+    "description": "Claudio Grande affronterà Jonathan Sannino nella semifinale per il titolo italiano dei pesi Gallo.",
+    "image": "https://via.placeholder.com/400x200?text=No+Image",
+    "url": "https://www.noitv.it/2026/01/claudio-grande-affronta-sannino-nella-semifinale-tricolore-dei-gallo-724266/"
+  },
+  {
+    "id": 21,
+    "title": "Chelsea complete first transfer deal of Liam Rosenior era as midfielder exits",
+    "source": "thisislondon",
+    "category": "General",
+    "description": "Chelsea include sell-on clause as former academy captain departs on a permanent deal.",
+    "image": "https://static.standard.co.uk/2026/01/10/12/14/liamrosenior10012026a-jpg.jpeg?width=1200",
+    "url": "https://www.standard.co.uk/sport/football/chelsea-fc-transfer-news-castledine-middlesbrough-rosenior-b1265875.html"
+  },
+  {
+    "id": 22,
+    "title": "Arsenal: Mikel Arteta sends message to Arne Slot over Gabriel Martinelli support",
+    "source": "thisislondon",
+    "category": "General",
+    "description": "Gabriel Martinelli responds to a tough week with an FA Cup hat-trick as Arteta backs his player.",
+    "image": "https://static.standard.co.uk/2026/01/11/16/27/SEI280428340.jpeg?width=1200",
+    "url": "https://www.standard.co.uk/sport/football/arsenal-fc-martinelli-arteta-slot-bradley-b1265975.html"
+  },
+  {
+    "id": 23,
+    "title": "544’000 comptes bloqués: Meta exhorte l’Australie à revoir son interdiction des réseaux sociaux aux ados",
+    "source": "Tribune de Geneve",
+    "category": "General",
+    "description": "Meta appelle l’Australie à revoir sa loi interdisant les réseaux sociaux aux moins de 16 ans.",
+    "image": "https://cdn.unitycms.io/images/AlGsCJoraXyBJYsNR6yAkC.jpg",
+    "url": "https://www.tdg.ch/ados-interdits-de-reseaux-sociaux-laustralie-appelee-a-repenser-sa-loi-418150978589"
+  },
+  {
+    "id": 24,
+    "title": "Telefónica Tech lanza una solución para el control privado y seguro de la información personal",
+    "source": "cibersur",
+    "category": "General",
+    "description": "Telefónica Tech presenta una solución de identidad digital para gestión segura de datos personales.",
+    "image": "https://via.placeholder.com/400x200?text=No+Image",
+    "url": "http://edicion.cibersur.com/cibersur/impe/esociedad/024320/telefonica/tech/lanza/solucion/control/privado/seguro/informacion/personal"
+  },
+  {
+    "id": 25,
+    "title": "La UD Logroñés revive sus peores fantasmas, una derrota más",
+    "source": "cope",
+    "category": "General",
+    "description": "La UD Logroñés sufre una nueva derrota tras perder un partido muy ajustado.",
+    "image": "https://imagenes.cope.es/files/og_thumbnail/uploads/2026/01/12/6964a36cebd4f.jpeg",
+    "url": "https://www.cope.es/emisoras/la-rioja/la-rioja-provincia/deportes-la-rioja/noticias/ud-logrones-revive-peores-fantasmas-derrota-20260112_3284451.html"
+  },
+  {
+    "id": 26,
+    "title": "Riquelme debe definir qué hacer con Lucas Blondel: “Hay cuatro equipos que lo quieren”",
+    "source": "elintransigente",
+    "category": "General",
+    "description": "Juan Román Riquelme deberá tomar una decisión sobre el futuro de Lucas Blondel, quien es pretendido por al menos cuatro equipos.",
+    "image": "https://via.placeholder.com/400x200?text=No+Image",
+    "url": "https://elintransigente.com/2026/01/riquelme-debe-definir-que-hacer-con-lucas-blondel-hay-cuatro-equipos-que-lo-quieren/"
+  },
+  {
+    "id": 27,
+    "title": "Bermuda Harness Pony Racing Results",
+    "source": "bernews",
+    "category": "General",
+    "description": "The Driving Horse & Pony Club of Bermuda held harness pony racing events with multiple heats across different time categories.",
+    "image": "https://via.placeholder.com/400x200?text=No+Image",
+    "url": "https://bernews.com/2026/01/jan12bermuda-harness-pony-racing-results-23/"
+  },
+  {
+  "id": 28,
+  "title": "Priyanka Chopra and BLACKPINK’s Lisa dazzle at Golden Globes",
+  "source": "dailytimes",
+  "category": "General",
+  "description": "Priyanka Chopra Jonas and BLACKPINK’s Lisa appeared together at the Golden Globe Awards to present an award, delighting fans of Hollywood and K-pop.",
+  "image": "https://via.placeholder.com/400x200?text=No+Image",
+  "url": "https://dailytimes.com.pk/1433818/priyanka-chopra-and-blackpinks-lisa-dazzle-at-golden-globes/"
+}
 
     ]
   },

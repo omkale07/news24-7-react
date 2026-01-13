@@ -13,8 +13,8 @@ function App() {
 const [search, setSearch] = useState("");
 
 
+// const apikey = "f2d5648de8239352b1f3507fe1d97a3c";
 
-const apikey = process.env.REACT_APP_API_KEY;
 
 
   return (
@@ -29,7 +29,6 @@ const apikey = process.env.REACT_APP_API_KEY;
           path="/home" 
           element={<Mediator
           search={search}
-          apiKey={apikey}
           category="general"/>}/>
 
           <Route 
@@ -39,21 +38,18 @@ const apikey = process.env.REACT_APP_API_KEY;
            path="/buisness" 
            element={<Mediator 
            search={search} 
-           apiKey={apikey} 
-           category="business"/>}/>
+           category="buisness"/>}/>
 
           <Route 
           path="/sport" 
           element={<Mediator 
           search={search} 
-          apiKey={apikey} 
-          category="sports"/>}/>
+          category="sport"/>}/>
 
           <Route 
           path="/health" 
           element={<Mediator 
           search={search}    
-          apiKey={apikey} 
           category="health"/>}/>
 
         </Routes>
