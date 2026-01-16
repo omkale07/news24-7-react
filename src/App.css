@@ -2,19 +2,23 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  gap: 24px;
+  padding: 16px;
   text-align: center;
 }
 
-.card{
-margin-top: 5rem;
-margin-left: 4rem;
+.card {
+  width: 100%;
+  max-width: 360px;   /* perfect for mobile */
+  margin: 0;          /* REMOVE hard margins */
+  transition: transform 0.4s, box-shadow 0.4s;
 }
 
-.card:hover{
-   box-shadow: 0 4px 10px rgba(0, 255, 255, 0.2);
-    transform: translate(0,-10px);
-    transition:.4s;
+.card:hover {
+  box-shadow: 0 4px 10px rgba(0, 255, 255, 0.2);
+  transform: translateY(-10px);
 }
+
 
 /* About */
 
@@ -123,3 +127,4 @@ footer .btn-color {
   border-radius: 5px;
   background-color: aqua;
 }
+
